@@ -330,8 +330,7 @@ class CpuWorker extends Thread {
         while (SharedStats.getCompletedProcessCount() < SharedStats.totalProcesses) {
 
             // TODO Feature 3: replace this polling loop by a blocking wait on the counting semaphore
-         
-            
+        
                 // ⚠️ BUSY WAITING: the CPU keeps checking an empty queue instead of sleeping until
                 // a process is available. It wastes CPU time and needs the "completed == total" test above to stop.
                   // Feature 3: block here until a process is available (no busy waiting)
