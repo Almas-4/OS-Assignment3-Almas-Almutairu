@@ -62,6 +62,7 @@ class SharedStats {
     // TODO Feature 2: declare the lock(s) protecting the three shared variables above here.
     // Think about it: ONE lock for the three variables, or ONE lock PER variable? (you must justify it in MY_WORK.md)
     // Feature 2: one lock per shared variable because the three variables are independent
+     
     private static final ReentrantLock contextSwitchLock = new ReentrantLock();
     private static final ReentrantLock completedLock = new ReentrantLock();
     private static final ReentrantLock serviceTimeLock = new ReentrantLock();
