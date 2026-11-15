@@ -203,9 +203,9 @@ Time spent: 2 hours
 
 
 
-### Entry 5 - [November 14, 2026, 10:00 AM]
+### Entry 5 - [November 15, 2026, 10:00 AM]
 
-What I did: Completed the written parts of MY_WORK.md.
+What I did: Completed the writen parts of MY_WORK.md.
 
 Details:Wrote the reflection (4 questions) and the technical answers (4 questions)
 Pasted the starter output and my final verification block in Part C, Question 1
@@ -218,7 +218,7 @@ Solution: Used a small timeline with contextSwitchCount = 12: CPU-1 reads 12, CP
 
 Time spent: 2 hours
 
-### Entry 6 - [November 14, 2026, 12:00 PM]
+### Entry 6 - [November 15, 2026, 12:00 PM]
 
 What I did: Recorded the demo video, uploaded it, and did the final check.
 
