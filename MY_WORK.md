@@ -32,10 +32,17 @@
 
 | Field | Your Answer |
 |-------|-------------|
+<<<<<<< HEAD
 | **Full Name** | Almas Abdullah Almutairu |
 | **Student ID** | 446051602 |
 | **University Email** | 446051602@std.psau.edu.sa |
 | **GitHub Username** | Almas-4 |
+=======
+| **Full Name** | Almas Abdullah Almutairui |
+| **Student ID** | 446051602 |
+| **University Email** |446051602@std.psau.edu.sa |
+| **GitHub Username** | Almas-4  |
+>>>>>>> 8fc189da0b88c0e9a746f71e93da74b1176491a3
 | **Repository Link** | https://github.com/Almas-4/OS-Assignment3-Almas-Almutairu |
  
 ---
