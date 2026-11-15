@@ -38,7 +38,7 @@
 | **University Email** | 446051602@std.psau.edu.sa |
 | **GitHub Username** | Almas-4 |
 =======
-| **Full Name** | Almas Abdullah Almutairui |
+| **Full Name** | Almas Abdullah Almutairu  |
 | **Student ID** | 446051602 |
 | **University Email** |446051602@std.psau.edu.sa |
 | **GitHub Username** | Almas-4  |
